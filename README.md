@@ -27,6 +27,7 @@ The add-on in sidebar is [saveIN : Your personal bookmarks](https://addons.mozil
 
 
 ## Some themes that fit well with classic tabs :  
+* [https://addons.mozilla.org/en-US/firefox/addon/blackwindow](https://addons.mozilla.org/en-US/firefox/addon/blackwindow/)
 * [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
