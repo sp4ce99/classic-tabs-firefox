@@ -3,8 +3,6 @@
 <ins>**IMPORTANT :**</ins> The first step is to go to the **INSTALL** section, **and then you can install a THEME**
 
 ![preview](preview/preview3.png)  
-<br> 
-The add-on in sidebar is [saveIN : Your personal bookmarks](https://addons.mozilla.org/en-US/firefox/addon/savein), enjoy !
 
 ## 💾 INSTALL
 
