@@ -34,7 +34,7 @@
 * [https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)   
 
-(1) and (2) are displayed in the screenshot.  
+(1) and (2) are displayed in the screenshot  
 
 *Feel free to try my Firefox add-on for bookmark in the sidebar  
 [https://addons.mozilla.org/en-US/firefox/addon/savein](https://addons.mozilla.org/en-US/firefox/addon/savein)*
