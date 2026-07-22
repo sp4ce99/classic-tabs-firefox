@@ -63,3 +63,7 @@
   padding-bottom: 0!important;
   padding-left: 15px!important;
 }
+
+#tabs-newtab-button .toolbarbutton-icon {
+  transform: scale(0.78)!important;   /* New Tab Icon was too big with FF 153. 45px * 0.78 = 35px */
+}
