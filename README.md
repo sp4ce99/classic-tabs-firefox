@@ -2,7 +2,7 @@
 
 <ins>**IMPORTANT :**</ins> The first step is to go to the **INSTALL** section, **and then you can install a THEME**
 
-![preview](preview/preview3.png)  
+![preview](preview/preview1.png)  
 
 ## 💾 INSTALL
 
@@ -23,18 +23,16 @@
 8. **Restart** Firefox to apply the changes
 
 
-## Some themes that fit well with classic tabs :  
-* [https://addons.mozilla.org/en-US/firefox/addon/blackwindow](https://addons.mozilla.org/en-US/firefox/addon/blackwindow) (1)  
+## Use these themes with classic-tabs-firefox
+* [https://addons.mozilla.org/en-US/firefox/addon/blackwindow](https://addons.mozilla.org/en-US/firefox/addon/blackwindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor](https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profileredcolor](https://addons.mozilla.org/en-US/firefox/addon/profileredcolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor) (2) 
+* [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)   
-
-(1) and (2) are displayed in the screenshot  
+* [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)    
 
 *Feel free to try my Firefox add-on for bookmark in the sidebar  
 [https://addons.mozilla.org/en-US/firefox/addon/savein](https://addons.mozilla.org/en-US/firefox/addon/savein)*
