@@ -2,7 +2,7 @@
 
 <ins>**IMPORTANT :**</ins> The first step is to go to the **INSTALL** section, **and then you can install a THEME**
 
-![preview](preview/preview1.png)  
+![preview](preview/preview3.png)  
 
 ## 💾 INSTALL
 
