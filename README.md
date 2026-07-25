@@ -34,5 +34,5 @@
 * [https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)    
 
-*Feel free to try my Firefox add-on for bookmark in the sidebar  
+*Feel free to try my Firefox add-on for bookmarks in the sidebar  
 [https://addons.mozilla.org/en-US/firefox/addon/savein](https://addons.mozilla.org/en-US/firefox/addon/savein)*
