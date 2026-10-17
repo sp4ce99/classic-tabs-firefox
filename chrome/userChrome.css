@@ -75,6 +75,5 @@
 }
 
 #sidebar-panel-header {
-  margin: 0 !important;
-  padding: 10px 15px 5px 15px !important;
+  padding-left: 20px!important;
 }
