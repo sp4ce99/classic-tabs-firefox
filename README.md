@@ -2,7 +2,7 @@
 
 <ins>**IMPORTANT :**</ins> The first step is to go to the **INSTALL** section, **and then you can install a [THEME](#use-these-themes-with-classic-tabs-firefox)**
 
-![preview](preview/preview3.png)  
+<img src="preview/preview3.png" width="100%" alt="Preview">
 
 ## 💾 INSTALL
 
