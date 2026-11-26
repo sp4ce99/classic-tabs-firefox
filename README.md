@@ -1,6 +1,6 @@
 <h1>🦊 Classic Tabs for Firefox</h1>
 
-<ins>**IMPORTANT :**</ins> The first step is to go to the **[INSTALL](#-install)** section, **and then you can install a [THEME](#use-these-themes-with-classic-tabs-firefox)**
+<ins>**IMPORTANT :**</ins> The first step is to go to the **[INSTALL](#-install)** section, **and then you can install a [THEME](#-some-great-themes-for-classic-tabs-firefox)**
 
 <img src="preview/preview.png" width="100%" alt="Preview">
 
