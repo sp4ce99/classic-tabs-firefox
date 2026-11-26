@@ -23,7 +23,7 @@
 8. **Restart** Firefox to apply the changes
 
 
-## Use these themes with classic-tabs-firefox
+## 🎨 Some Great Themes for Classic Tabs Firefox
 * [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
 * [https://addons.mozilla.org/en-US/firefox/addon/profilePINKcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
