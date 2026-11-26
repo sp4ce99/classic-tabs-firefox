@@ -26,12 +26,12 @@
 ## Use these themes with classic-tabs-firefox
 * [https://addons.mozilla.org/en-US/firefox/addon/whitewindow](https://addons.mozilla.org/en-US/firefox/addon/whitewindow)  
 * [https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1](https://addons.mozilla.org/en-US/firefox/addon/microsoft-windows-xp1)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor](https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profileredcolor](https://addons.mozilla.org/en-US/firefox/addon/profileredcolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
-* [https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profilePINKcolor](https://addons.mozilla.org/en-US/firefox/addon/profilepinkcolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileGREENcolor](https://addons.mozilla.org/en-US/firefox/addon/profilegreencolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileREDcolor](https://addons.mozilla.org/en-US/firefox/addon/profileredcolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileORANGEcolor](https://addons.mozilla.org/en-US/firefox/addon/profileorangecolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileBLUEcolor](https://addons.mozilla.org/en-US/firefox/addon/profilebluecolor)  
+* [https://addons.mozilla.org/en-US/firefox/addon/profileVIOLETcolor](https://addons.mozilla.org/en-US/firefox/addon/profilevioletcolor)  
 * [https://addons.mozilla.org/en-US/firefox/addon/blackwindow](https://addons.mozilla.org/en-US/firefox/addon/blackwindow)  
 
 *Feel free to try my Firefox add-on for bookmarks in the sidebar  
